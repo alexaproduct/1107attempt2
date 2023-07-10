@@ -1,0 +1,15 @@
+/Users/alexa/Documents/GB 11-07 attempt2/GB1107-1/bin/Debug/net7.0/GB1107-1
+/Users/alexa/Documents/GB 11-07 attempt2/GB1107-1/bin/Debug/net7.0/GB1107-1.deps.json
+/Users/alexa/Documents/GB 11-07 attempt2/GB1107-1/bin/Debug/net7.0/GB1107-1.runtimeconfig.json
+/Users/alexa/Documents/GB 11-07 attempt2/GB1107-1/bin/Debug/net7.0/GB1107-1.dll
+/Users/alexa/Documents/GB 11-07 attempt2/GB1107-1/bin/Debug/net7.0/GB1107-1.pdb
+/Users/alexa/Documents/GB 11-07 attempt2/GB1107-1/obj/Debug/net7.0/GB1107-1.csproj.AssemblyReference.cache
+/Users/alexa/Documents/GB 11-07 attempt2/GB1107-1/obj/Debug/net7.0/GB1107-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexa/Documents/GB 11-07 attempt2/GB1107-1/obj/Debug/net7.0/GB1107-1.AssemblyInfoInputs.cache
+/Users/alexa/Documents/GB 11-07 attempt2/GB1107-1/obj/Debug/net7.0/GB1107-1.AssemblyInfo.cs
+/Users/alexa/Documents/GB 11-07 attempt2/GB1107-1/obj/Debug/net7.0/GB1107-1.csproj.CoreCompileInputs.cache
+/Users/alexa/Documents/GB 11-07 attempt2/GB1107-1/obj/Debug/net7.0/GB1107-1.dll
+/Users/alexa/Documents/GB 11-07 attempt2/GB1107-1/obj/Debug/net7.0/refint/GB1107-1.dll
+/Users/alexa/Documents/GB 11-07 attempt2/GB1107-1/obj/Debug/net7.0/GB1107-1.pdb
+/Users/alexa/Documents/GB 11-07 attempt2/GB1107-1/obj/Debug/net7.0/GB1107-1.genruntimeconfig.cache
+/Users/alexa/Documents/GB 11-07 attempt2/GB1107-1/obj/Debug/net7.0/ref/GB1107-1.dll
